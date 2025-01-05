@@ -1,0 +1,7 @@
+@article{REPO207,
+    author = "Wang, Yunbo and Wu, Haixu and Zhang, Jianjin and Gao, Zhifeng and Wang, Jianmin and Yu, Philip S and Long, Mingsheng",
+    journal = "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    publisher = "IEEE",
+    title = "{PredRNN: A Recurrent Neural Network for Spatiotemporal Predictive Learning}",
+    year = "2022"
+}
